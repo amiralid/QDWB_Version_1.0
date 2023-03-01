@@ -4,3 +4,9 @@ This code was developed under my master thesis project titled "***Development of
 QDWB was designed based on available data to avoid struggling with inadequacies. Briefly explaining, rather than runoff routing, this model uses a runoff source area approach that only enables specific areas to generate runoff. In addition, groundwater storage is not monitored, however, withdrawal allocation for agriculture is estimated based on crop modeling.
 
 *This version of QDWB is the initial edition and is expected to be further developed for better results.*
+
+## Rokh-Neishabour study area
+![alt text](StudyArea_RokhNeishabour.jpg)
+
+## Location of study area in IRAN
+![alt text](StudyArea_Location_IRAN.jpg)
