@@ -8,7 +8,4 @@ Water resources management in different regions has different approaches. Yet, s
 <img src="Flowchart_QDWB.png" width="500"/>
 
 ## Rokh-Neishabour study area
-<img src="StudyArea_RokhNeishabour.jpg" width="600"/>
-
-## Location of study area in IRAN
-<img src="StudyArea_Location_IRAN.jpg" width="600"/>
+<img src="StudyArea_with Iran.jpg" width="600"/>
